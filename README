@@ -1,6 +1,6 @@
-$Id: README,v 1.1 2004/10/27 06:29:09 t096351 Exp $
+$Id: README,v 1.2 2004/10/27 22:08:01 pelagic Exp $
 
-You can install this module in the usual Perl way
+You can install this module in the usual Perl way:
 
 	perl Makefile.PL
 	make
@@ -8,12 +8,12 @@ You can install this module in the usual Perl way
 	make install
 	
 The documentation is in the module file.  Once you install
-the file, you can read it with perldoc.
+the file, you can read it with perldoc:
 
 	perldoc List::Rotation::Cycle
 	
 If you want to read it before you install it, you can use
-perldoc directly on the module file.
+perldoc directly on the module file:
 
 	perldoc Cycle.pm
 	

@@ -1,7 +1,7 @@
-# $Id: Cycle.pm,v 1.2 2004/10/27 06:25:52 t096351 Exp $
+# $Id: Cycle.pm,v 1.3 2004/10/27 22:08:01 pelagic Exp $
 package List::Rotation::Cycle;
 
-$VERSION = sprintf "%d.%03d", q$Revision: 1.2 $ =~ m/ (\d+) \.? (\d+)? /x;
+$VERSION = sprintf "%d.%03d", q$Revision: 1.3 $ =~ m/ (\d+) \.? (\d+)? /x;
 
 use strict;
 
@@ -14,7 +14,7 @@ sub new {
     do {
         require Carp;
         Carp::croak ("Incorrect number of arguments; must be >= 1.");
-    } unless 1 <= @_;
+    } unless @_ >= 1;
 
     my $self = [ @_ ];
 

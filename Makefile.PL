@@ -1,4 +1,4 @@
-# $Id: Makefile.PL,v 1.1 2004/10/15 07:56:06 t096351 Exp $
+# $Id: Makefile.PL,v 1.2 2004/10/27 22:08:01 pelagic Exp $
 use ExtUtils::MakeMaker;
 
 eval "use Test::Manifest";
@@ -29,3 +29,4 @@ WriteMakefile(
 
 	'clean' => { FILES => 'List-Rotation-Cycle-*' },
 );
+

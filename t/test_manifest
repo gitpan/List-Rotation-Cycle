@@ -1,4 +1,4 @@
-# $Id: test_manifest,v 0.1 2004/10/15 08:03:00 t096351 Exp $
+# $Id: test_manifest,v 0.3 2004/10/27 22:13:02 pelagic Exp $
 load.t
 pod.t
 cycle.t
