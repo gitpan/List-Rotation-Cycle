@@ -1,7 +1,7 @@
-# $Id: Cycle.pm,v 1.3 2004/10/27 22:08:01 pelagic Exp $
+# $Id: Cycle.pm,v 1.4 2005/05/19 10:04:56 pelagic Exp pelagic $
 package List::Rotation::Cycle;
 
-$VERSION = sprintf "%d.%03d", q$Revision: 1.3 $ =~ m/ (\d+) \.? (\d+)? /x;
+$VERSION = sprintf "%d.%03d", q$Revision: 1.4 $ =~ m/ (\d+) \.? (\d+)? /x;
 
 use strict;
 

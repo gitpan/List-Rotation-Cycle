@@ -1,4 +1,4 @@
-# $Id: Makefile.PL,v 1.2 2004/10/27 22:08:01 pelagic Exp $
+# $Id: Makefile.PL,v 1.4 2005/05/19 10:04:56 pelagic Exp pelagic $
 use ExtUtils::MakeMaker;
 
 eval "use Test::Manifest";
