@@ -1,9 +1,9 @@
-# $Id: Cycle.pm,v 1.4 2005/05/19 10:04:56 pelagic Exp pelagic $
 package List::Rotation::Cycle;
-
-$VERSION = sprintf "%d.%03d", q$Revision: 1.4 $ =~ m/ (\d+) \.? (\d+)? /x;
+use vars qw( $VERSION );
+$VERSION = 1.005;
 
 use strict;
+use warnings;
 
 use Memoize;
 memoize('new');

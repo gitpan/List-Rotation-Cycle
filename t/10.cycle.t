@@ -1,7 +1,4 @@
-#!/usr/bin/perl
-# $Id: 10.cycle.t,v 1.4 2005/05/19 09:46:25 pelagic Exp pelagic $
 use strict;
-
 use Test::More tests => 10;
 
 use List::Rotation::Cycle;

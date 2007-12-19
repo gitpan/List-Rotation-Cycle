@@ -7,6 +7,14 @@ Revision history for Perl extension List::Rotation::Cycle
         * added more tests and META.yml
         * The API and methods are not changed. So there is no reason to upgrade from 1.003.
 
+1.005
+        [INTERNALS]
+        * Added Memoize to prerequisits
+        * Changed all perl files to non-executable
+        * Added SIGNATURE file
+        * Upgraded META.yml to META-spec-v1.3
+        * Added a example file (without a real example)
+
         This will be the last supported version of List::Rotation::Cycle
         (unless someone finds some bugs).
         I suggest you use List::Rotation instead.
