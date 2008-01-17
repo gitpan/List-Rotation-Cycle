@@ -1,6 +1,6 @@
 package List::Rotation::Cycle;
 use vars qw( $VERSION );
-$VERSION = 1.005;
+$VERSION = 1.006;
 
 use strict;
 use warnings;

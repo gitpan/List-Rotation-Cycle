@@ -15,21 +15,22 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 e528d4d1c3a9e501e39c232a64dd90ed66cb8f63 Changes
-SHA1 06075a3bc9d2799c4d871483ebb28c7cc7d2a9dc MANIFEST
-SHA1 79547ee0172622ec61e9e2345079aaec79c6d664 META.yml
+SHA1 e1c41d85339bb015eeb5b9b392db9a1721a5b52f MANIFEST
+SHA1 2fa9c70f12f7f8e1ff9bc3cb6ffb83a81d075956 META.yml
 SHA1 e7ff8454c0bda5c6e80ddce8d3ec15d42ae5f5fc Makefile.PL
 SHA1 3236dc1bc3c7deadc81a8a7dc1fd9cdab16d1beb README
 SHA1 aa5d41189d29a2b7282467e7837f1a1814d160e2 examples/examples.txt
-SHA1 adb5d0f22f9c6fe692ba0e3e6a4e09acfc310755 lib/List/Rotation/Cycle.pm
-SHA1 f726f9caa18a58157607e8fdf1b2b89d8dce1b8f t/00.load.t
-SHA1 d67ad3bc17bacf88cd92ff6d20fafe98e5d8e436 t/10.cycle.t
+SHA1 1d4c1cd8d279272a3f250c42352452f535bc2bb2 lib/List/Rotation/Cycle.pm
+SHA1 e201a5e88725f2fea224b90cb74b895fc1844edc t/00.signature.t
+SHA1 f726f9caa18a58157607e8fdf1b2b89d8dce1b8f t/10.load.t
+SHA1 d67ad3bc17bacf88cd92ff6d20fafe98e5d8e436 t/20.cycle.t
 SHA1 a3c5ce63e1da2a0cc8a5c26e1cd00a46b4b0b180 t/pod-coverage.t
 SHA1 fada08a138c7f5d0c435fbd184ebfbd975f5da7d t/pod.t
 SHA1 310d608ed31fe54d50f2befb527f2e5fbdfd37c8 t/test_manifest
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.6 (GNU/Linux)
 
-iD8DBQFHaF2MxJDn5Cv7CPcRAhhAAKDR+dkwTeUuSbhEW/GeBA19zlnTrACgnhwm
-0EP/m103eyzls9pFso5VcNE=
-=zZAc
+iD8DBQFHj9V+xJDn5Cv7CPcRAm/oAKC61eu027hnFa9YUYmlv3YDoW61xwCdEtJY
+sauTc8N88sWCPxu49AymQjg=
+=DOXt
 -----END PGP SIGNATURE-----
