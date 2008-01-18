@@ -1,4 +1,5 @@
-00.load.t
-10.cycle.t
+00.signature.t
+10.load.t
+20.cycle.t
 pod-coverage.t
 pod.t
