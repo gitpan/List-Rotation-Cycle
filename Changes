@@ -7,7 +7,7 @@ Revision history for Perl extension List::Rotation::Cycle
         * added more tests and META.yml
         * The API and methods are not changed. So there is no reason to upgrade from 1.003.
 
-1.007
+1.008
         [INTERNALS]
         * Added Memoize to prerequisits
         * Changed all perl files to non-executable

@@ -14,13 +14,13 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 bc85c78b9fd001136ec2741f59ac464574e06499 Changes
+SHA1 331622dafd60e9f9162e3e32b29dc51548d72286 Changes
 SHA1 e1c41d85339bb015eeb5b9b392db9a1721a5b52f MANIFEST
-SHA1 0ed86aa58d1209046687dfc9af4c4b91c4c9d294 META.yml
+SHA1 69bafd3c8706bb7e74155e9fccabac08cc7662ed META.yml
 SHA1 e7ff8454c0bda5c6e80ddce8d3ec15d42ae5f5fc Makefile.PL
 SHA1 3236dc1bc3c7deadc81a8a7dc1fd9cdab16d1beb README
 SHA1 aa5d41189d29a2b7282467e7837f1a1814d160e2 examples/examples.txt
-SHA1 30cc5348a40b6a537dc7b501ae650d5d3e252205 lib/List/Rotation/Cycle.pm
+SHA1 15e8e1bbde3385ee855b7186a01246db7f7f3890 lib/List/Rotation/Cycle.pm
 SHA1 e201a5e88725f2fea224b90cb74b895fc1844edc t/00.signature.t
 SHA1 f726f9caa18a58157607e8fdf1b2b89d8dce1b8f t/10.load.t
 SHA1 d67ad3bc17bacf88cd92ff6d20fafe98e5d8e436 t/20.cycle.t
@@ -30,7 +30,7 @@ SHA1 af5826bcc36f9bc2380753fcd2166147bf5377ea t/test_manifest
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.6 (GNU/Linux)
 
-iD8DBQFHkHQkEqcXhJ+z77YRApUNAJ9aZwXKsvMxmFL1RKQw09GNgM4oogCgpuoE
-9dwssAWPfpnQtrXXumERSLI=
-=8Gwf
+iD8DBQFHtNOsxJDn5Cv7CPcRAvZFAKCnvTv6ZgB9Z+nazSTSoRNT0/iP0ACgsFQV
+aJWx1YRS6BnJCYNlFlh5QOI=
+=OWFo
 -----END PGP SIGNATURE-----
