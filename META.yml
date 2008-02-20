@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                List-Rotation-Cycle
-version:             1.008
+version:             1.009
 abstract:            Cycle through a list of values via a singleton object implemented as closure. 
 license:             perl
 author:              
